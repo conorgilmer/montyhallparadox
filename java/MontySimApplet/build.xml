@@ -1,0 +1,42 @@
+<!-- build.xml file -->
+<!-- Conor Gilmer(cgilmer@tinet.ie) -->
+
+<project name="Monty Sim Applet" default="all">
+
+    <target name="clean">
+        <delete dir="build"/>
+    </target>
+
+    <target name="compile">
+        <mkdir dir="build/classes"/>
+	<javac srcdir="." destdir="build/classes"/>
+    </target>
+
+    <target name="jar">
+        <mkdir dir="build/jar"/>
+        <jar destfile="build/jar/MontySimApplet.jar" basedir="build/classes">
+            <manifest>
+                <attribute name="Main-Class" value="threecardapplet"/>
+            </manifest>
+        </jar>
+    </target>
+
+<!--    <target name="run">
+        <java jar="build/jar/threecardgameapplet.jar" fork="true"/>
+    </target>-->
+
+    <target name="launch"> 
+	<exec executable="appletviewer"> 
+	  <arg value="threecardapplet.html"/> 
+        </exec> 
+    </target> 
+
+    <target name="all" depends="clean">
+        <antcall target="compile"/>
+        <antcall target="jar"/>
+        <antcall target="launch"/>
+    </target>
+
+</project>
+
+
