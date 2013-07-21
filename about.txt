@@ -1,0 +1,9 @@
+
+The monty hall paradox
+is about a card game on an american game show from many moons ago hosted by Monty Hall
+A contestent is given a choice of 3 cards or doors, behind one of the doors or cards is a prize
+when they select a card or door the "computer" removes randomly one door or card which does not have the prize
+the contestant is asked to stay with their original choice or change
+if they change they have a 2/3s chance of winning but if they stay they have 1/3 chance of winning but people intuitively think sticking with their original choice is better.
+
+Every time i learn a new computer language i try this as a simple programming task.
