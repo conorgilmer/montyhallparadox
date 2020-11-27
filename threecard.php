@@ -16,18 +16,19 @@ Changing wins more times. 66% of the time.<br/>
 <li>Three Card Paradox Simulation and Game LUA. <a target="_blank" href="monty.lua">Lua Code</a> and <a target="_blank" href="outputlua.txt">Output</a> (14/05/13).</li>
 <li><a target="_blank" href="http://www.conorgilmer.eu/apps/MontyHall.apk">Three Card Paradox Simulation and Game Android App (21/02/13).</li>
 <li><a target="_blank" href="threeonline.php">Three Card Game Simulation in PHP</a> (plays 1000 games) </li>
-<li><a target="_blank" href="three.cgi">Three Card Game Simulation</a> (plays 1000 games) (<a target="_blank" href="threepy.txt">Python Code</a>) Output (<a target="_blank" href="outputpy.txt">outputpy.txt</a>) </li>
+<li><a target="_blank" href="three.cgi">Three Card Game Simulation</a> (plays 1000 games) (<a target="_blank" href="threepy.txt">Python Code</a>) Output (<a target="_blank" href="outputpy.txt">outputpy.txt</a>) (19/02/13)</li>
 <li><a target="_blank" href="threecardgame/threecardapplet.html">Three Card Game Simulation Applet</a> Specify Number of Simulations.</li>
 <li><a target="_blank" href="threecardgame/threecardgameapplet.html">Three Card Game Applet</a> Play a Game (28/12/01).</li>
 <li><a target="_blank" href="MontySim.jar">Three Card Game Simulation Java Swing</a> (executable jar file)</li>
-<li><a target="_blank" href="threepl.cgi">Three Card Game Simulation</a> (plays 1000 games) (<a target="_blank" href="three.txt">Perl Code</a>)  Output (<a target="_blank" href="outputperl.txt">outputperl.txt</a>) (28/12/01) </li>
-<li>Three Card Game Simulation (C <a target="_blank" href="threec.txt">Code</a>) Output (<a target="_blank" href="outputc.txt">outputc.txt</a>) </li>
-<li>Three Card Game Simulation (FORTRAN <a target="_blank" href="threef.txt">Code</a>) Output (<a target="_blank" href="outputf.txt">outputf.txt</a>) </li>
-<li>Three Card Game Simulation (COBOL <a target="_blank" href="three.cob">Code</a>) Output (<a target="_blank" href="outputcob.txt">text</a> and <a target="_blank" href="output.rec">record</a>) </li>
-<li>Three Card Game Simulation (Pascal <a target="_blank" href="threepas.txt">Code</a>) Output (<a target="_blank" href="outputpas.txt">outputpas.txt</a>) </li>
 <li><a target="_blank" href="threecardgame/ThreeCardGame.java">ThreeCardGame.java</a> (Java Code) <a target="_blank" href="threecardgame/ThreeCardGame.class">ThreeCardGame.class</a></li>
 <li>Three Card Game Simulation (PHP commandline <a target="_blank" href="threephp.txt">Code</a>) Output (<a target="_blank" href="outputphp.txt">outputphp.txt</a>) </li>
+<li><a target="_blank" href="threepl.cgi">Three Card Game Simulation</a> (plays 1000 games) (<a target="_blank" href="three.txt">Perl Code</a>)  Output (<a target="_blank" href="outputperl.txt">outputperl.txt</a>) (28/12/01) </li>
+<li>Three Card Game Simulation (C <a target="_blank" href="threec.txt">Code</a>) Output (<a target="_blank" href="outputc.txt">outputc.txt</a>) - (26/12/98) </li>
+<li>Three Card Game Simulation (FORTRAN <a target="_blank" href="threef.txt">Code</a>) Output (<a target="_blank" href="outputf.txt">outputf.txt</a>) </li>
+<li>Three Card Game Simulation (COBOL <a target="_blank" href="three.cob">Code</a>) Output (<a target="_blank" href="outputcob.txt">text</a> and <a target="_blank" href="output.rec">record</a>) </li>
+<li>Three Card Game Simulation (Pascal <a target="_blank" href="threepas.txt">Code</a>) Output (<a target="_blank" href="outputpas.txt">outputpas.txt</a>) - not so random random numbers, originally written and compiled in Modula-2 </li>
 </ul>
+
 <p>
 This is actually called the "Monty Hall Paradox", after a US Game Show host, according to Mythbusters episode I seen recently (2011), they played the game a number of times to prove the theory. This promted me to dig it off my old PC hard drive, so Voila!
 </p>
